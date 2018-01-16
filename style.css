@@ -88,3 +88,9 @@ img.menuLogo{
     height: 100%;
     left: 75px;
 }
+
+@media screen and (max-width:640px){
+    fieldset{
+        width: 99%;
+    }
+}
