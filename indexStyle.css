@@ -122,4 +122,20 @@ p{
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
 }
+
+div.MenuBar{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    top: 0;
+    left: 0;
+    margin-bottom: 0px;
+}
+
+img.menuLogo{
+    position: absolute;
+    margin: 0px;
+    height: 100%;
+    left: 100px;
 >>>>>>> 42686c6b2bf77f11aca8ff8fddd4b26e5c4cd094
