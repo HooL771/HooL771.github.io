@@ -1,0 +1,69 @@
+body{
+    background-color: dimgray;
+}
+
+div.MenuBar{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    top: 0;
+    left: 0;
+    margin-bottom: 0px;
+}
+
+/*
+
+button.menu{
+
+    position: absolute;
+    height: 100px;
+    width: 130px;
+    border: 0px;
+    background-color: black;
+    color: brown;
+    font-size: 25px;
+    font-family: sans-serif;
+    background-position: center;
+}
+
+button.menu:hover{
+    background-color: red;
+    color: black;
+}
+
+button#menu1{
+    left: 1100px;
+    background-image: url(lib.png);
+}
+
+button#menu1:hover{
+    background-image: url(lib_hover.png);
+}
+
+button#menu2{
+    left: 1250px;
+    background-image: url(about.png);
+}
+
+button#menu2:hover{
+    background-image: url(about_hover.png);
+}
+
+button#menu3{
+    left: 1400px;
+    background-image: url(prices.png);
+}
+
+button#menu3:hover{
+    background-image: url(prices_hover.png);
+}
+
+*/
+
+img.menuLogo{
+    position: absolute;
+    margin: 0px;
+    height: 100%;
+    left: 100px;
+}
